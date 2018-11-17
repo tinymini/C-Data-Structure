@@ -14,4 +14,54 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_with_format.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="interger_max_overflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_min_underflow.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="integer_stdint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fmod.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_on.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_off.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_toggle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for_100.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for_scanf_increment.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_for_multiple_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fizzbuzz.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="address.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
