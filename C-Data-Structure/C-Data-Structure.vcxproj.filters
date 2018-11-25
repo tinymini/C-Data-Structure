@@ -105,5 +105,11 @@
     <ClCompile Include="convert_decimal_binary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="two_dimensional_array_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
